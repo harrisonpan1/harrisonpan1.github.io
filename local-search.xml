@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Weekly Global Market Summary 7/27/2025</title>
+    <link href="/2025/07/27/summary250727/"/>
+    <url>/2025/07/27/summary250727/</url>
+    
+    <content type="html"><![CDATA[<p>This week’s market logic is quite clear, though the details can get a bit complex. Let’s break it down.</p><h1 id="Japan-Election-Upset-and-the-Bond-Market-Paradox"><a href="#Japan-Election-Upset-and-the-Bond-Market-Paradox" class="headerlink" title="Japan Election Upset and the Bond Market Paradox"></a>Japan Election Upset and the Bond Market Paradox</h1><p>The week’s biggest story started in Japan. Over the weekend, the ruling coalition led by Prime Minister Shigeru Ishiba suffered a major defeat in the upper house election, losing its majority. This turns the Ishiba cabinet into a minority government, sparking media speculation that the Prime Minister might resign.</p><p>From a market perspective, this created a complex reaction to Japanese Government Bonds (JGBs):</p><ul><li><strong>Pre-Election Jitters:</strong> Markets had already anticipated an imminent opposition victory. Because the opposition parties generally advocate for expansionary fiscal policy, investors grew concerned about Japan’s deficit and the potential for an over-issuance of government bonds. This led to a sell-off in JGBs starting from early this month.</li><li><strong>Post-Election Reversal:</strong> While the ruling coalition lost, the defeat wasn’t as severe as many had feared. This eased concerns about runaway fiscal spending, which in turn reduced the pressure to sell JGBs.</li><li><strong>Political Risk:</strong> At the same time, the prospect of a minority government and a potential prime minister resignation increased political uncertainty. This boosted safe-haven demand, creating buying pressure for JGBs.</li></ul><p>Based on these factors, one would expect JGB prices to rise. So why did they fall (<a href="https://www.cnbc.com/quotes/JP10Y-JP">JP10y 1.532% -&gt; 1.603%</a>)?</p><h1 id="The-Game-Changer-The-US-Japan-Trade-Agreement"><a href="#The-Game-Changer-The-US-Japan-Trade-Agreement" class="headerlink" title="The Game Changer: The US-Japan Trade Agreement"></a>The Game Changer: The US-Japan Trade Agreement</h1><p>The answer lies in the week’s other major news story. On the evening of July 22nd, President Trump announced that the US and Japan had reached a trade agreement. Key terms include a $550 billion investment by Japan in the United States and a reduction of US tariffs on Japanese goods to 15%.</p><p>This news injected a massive dose of optimism into the market:</p><ul><li><strong>Japanese and US Stocks Soared:</strong> Japanese stocks, particularly in the auto sector, surged on the news. This optimism spread to the US, where strong earnings reports (with over 80% of companies beating profit expectations) also helped push the S&amp;P 500 and Nasdaq to new record highs.</li><li><strong>Safe-Haven Demand Faded:</strong> The positive sentiment caused capital to flow from the safety of bonds into equities. For Japan, the stable trade environment also increased the likelihood that the Bank of Japan could consider restarting interest rate hikes in the future. This created immense downward pressure on Japanese bonds, ultimately overwhelming the upward push from the election results.</li></ul><p>Consequently, JGB yields rose significantly (ie. prices fell).</p><h1 id="US-Treasuries-and-The-Fed"><a href="#US-Treasuries-and-The-Fed" class="headerlink" title="US Treasuries and The Fed"></a>US Treasuries and The Fed</h1><p>On Thursday, President Trump visited the Federal Reserve in Washington, D.C., to review building renovations. He tried to use the $2 billion renovation costs to ramp up political pressure on Chairman Jerome Powell to lower the benchmark interest rate. <a href="https://www.ustreasuryyieldcurve.com/b/gsThlo">This reversed the logic from the previous week, causing the US Treasury yield curve to flatten, as long-term yields fell.</a></p><h1 id="A-Look-at-Europe"><a href="#A-Look-at-Europe" class="headerlink" title="A Look at Europe"></a>A Look at Europe</h1><ul><li><strong>ECB:</strong> The European Central Bank held interest rates steady at 2% on Thursday, pausing its year-long policy easing cycle and adopting a “wait-and-see” approach on future rate cuts. This was in line with expectations and had little market impact.</li><li><strong>Bonds:</strong> Amid the global optimism, German and French bond spreads tightened. In the UK, however, weak retail sales data and the Chancellor’s commitment to fiscal control helped push UK government bonds slightly higher.</li><li><strong>Stocks:</strong> UK stocks rose, driven primarily by corporate earnings. German and French stocks remained largely unchanged as investors await progress on US-EU trade negotiations.</li></ul><h1 id="Dollar-and-Commodities"><a href="#Dollar-and-Commodities" class="headerlink" title="Dollar and Commodities"></a>Dollar and Commodities</h1><ul><li><strong>US Dollar:</strong> Since President Trump’s tariff wars had the effect of strengthening the dollar. A trade agreement, therefore, has the opposite effect. The de-escalation of trade tensions pushed the US dollar lower(<a href="https://www.cnbc.com/quotes/%40DX.1?qsearchterm=dollar%20index">-0.79(-0.8%)</a>).</li><li><strong>Gold:</strong> A weaker dollar is typically bullish for gold. However, the dominant force this week was market optimism, which reduces demand for safe-haven assets. As a result, gold finished the week slightly down (<a href="https://www.cnbc.com/quotes/XAU%3D?qsearchterm=xau">-$12.61(-0.38%)</a>).</li><li><strong>Oil:</strong> While market optimism provided a tailwind for oil prices, supply-side news created stronger headwinds. Reports indicated that OPEC+ will decide to continue production at its upcoming meeting, the US eased restrictions on Venezuelan oil, and Chinese economic data raised concerns about future energy demand. The downward pressure from supply ultimately won out, and oil prices fell modestly (<a href="https://www.cnbc.com/quotes/%40CL.1?qsearchterm=wti%20crude%20">-0.89(-1.35%)</a>).</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>Markets</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Market Summary</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2025/07/27/hello-world/"/>
+    <url>/2025/07/27/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
