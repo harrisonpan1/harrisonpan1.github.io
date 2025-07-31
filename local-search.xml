@@ -4,6 +4,37 @@
   
   
   <entry>
+    <title>Robinhood Trading Risk Management Tool</title>
+    <link href="/2025/07/30/Robinhood-Trading-Risk-Management/"/>
+    <url>/2025/07/30/Robinhood-Trading-Risk-Management/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Level-Up-Your-Robinhood-Trading-A-Free-Open-Source-Journal-and-Risk-Manager"><a href="#Level-Up-Your-Robinhood-Trading-A-Free-Open-Source-Journal-and-Risk-Manager" class="headerlink" title="Level Up Your Robinhood Trading: A Free, Open-Source Journal and Risk Manager"></a>Level Up Your Robinhood Trading: A Free, Open-Source Journal and Risk Manager</h2><p>Trading on Robinhood is a double-edged sword. The accessibility is incredible, but for the new age of investors diving into high-risk, high-reward options and volatile stocks, there’s a distinct lack of professional-grade tools to manage that risk. When you’re making complex plays, flying blind is the fastest way to crash.</p><p>That’s why I’m excited to share the <a href="https://github.com/harrisonpan1/Robinhood-Trading-Risk-Management.git">Robinhood-Trading-Risk-Management</a>, a free, open-source project built with Python. It can help to keep track of your trading logs and portfolio option greek risk.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Self-developed Project</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Option</tag>
+      
+      <tag>Risk Management</tag>
+      
+      <tag>Robinhood</tag>
+      
+      <tag>Trading</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Weekly Global Market Summary 7/27/2025</title>
     <link href="/2025/07/27/summary250727/"/>
     <url>/2025/07/27/summary250727/</url>
